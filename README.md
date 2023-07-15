@@ -1,4 +1,4 @@
 # A simple shell project
 ## Authors: 
-Osfoce -> [github](https://www.github.com/osfoce)  
-Bcorji -> [giyub](https://www.github.com/bcorji)
+[Osfoce](https://www.github.com/osfoce)  
+Bcorji -> [gitub](https://www.github.com/bcorji)
